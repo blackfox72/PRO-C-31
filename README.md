@@ -1,1 +1,2 @@
-# PRO-C-31 BY IBRAHIM SIAMWALA
+# p5.play-boilerplate
+Boiler plate for p5.play
